@@ -1,0 +1,16 @@
+.mainContainer{
+    border:3px solid red;
+    width: 400px;
+    height:400px;
+    margin:auto;
+    background-color: rgb(199, 196, 196);
+}
+.Navbar{
+    display:flex;
+    background-color: rgb(221, 220, 220);
+    color:rgb(243, 79, 3);
+    height:50px;
+}
+.footer{
+    border:3px solid red;
+}
