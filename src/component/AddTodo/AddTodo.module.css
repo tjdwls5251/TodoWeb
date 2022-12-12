@@ -1,12 +1,12 @@
 .form{
     width:100%;
     display: flex;
-    padding: 1rem;
+    padding: 1.4rem 1rem;
     background-color: var(--color--bg-dark);
 }
 
 .input{
-    flex:1 1 auto;
+    flex:1 0 auto;
     font-size: 1.4rem;
     padding:0.7rem 1rem;
     border:none;
@@ -20,7 +20,7 @@
     color:var(--color-white);
     font-weight: bold;
     font-size: 1.4rem;
-    padding: 0 2rem;
+    padding: 0 auto;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
 }
